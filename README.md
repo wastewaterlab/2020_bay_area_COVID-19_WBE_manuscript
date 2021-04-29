@@ -12,10 +12,10 @@ Two executable Jupyter notebooks are included:
 
 Each notebook uses the same base files and outputs figures in the "Figures" folder
 1. casedata.csv (clinical COVID-19 data from locations in this study)
-2. master_curves.csv (master standard curves for RT-qPCR
+2. master_curves.csv (master standard curves for RT-qPCR)
 3. physicochemical_data.csv (physicochemical data associated with wastewater samples)
 4. Plate_info.csv (information about each qPCR plate)
 5. QuantStudio_raw_data.csv (raw qPCR data from the QuantStudio3)
 6. sample_inventory.csv (information about wastewater sample collection and processing)
 7. site_lookup.csv (information about locations sampled)
-8. four scripts: calculations.py, qa_qc.py, read_gsheets.py, and reprocess_qpcr.py)
+8. four scripts: calculations.py, qa_qc.py, read_gsheets.py, and reprocess_qpcr.py
