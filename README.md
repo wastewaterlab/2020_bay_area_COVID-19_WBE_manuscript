@@ -1,7 +1,7 @@
 # 2020_bay_area_COVID-19_WBE_manuscript
 Jupyter notebooks and dataset for Interpretation of temporal and spatial trends of SARS-CoV-2 RNA in San Francisco Bay Area wastewater.
 
-Authors: Hannah D. Greenwald1*, and Lauren C. Kennedy*, Adrian Hinklel, Oscar N. Whitney, Vinson B. Fan, Alexander Crits-Christoph, Sasha Harris-Lovett, Avi I. Flamholz, Basem Al-Shayeb, Lauren D. Liao, Matt Beyers, Daniel Brown, Alicia R. Chakrabarti, Jason Dow, Dan Frost, Mark Koekemoer, Chris Lynch, Payal Sarkar, Eileen White, Rose Kantor**, Kara L. Nelson**
+Authors: Hannah D. Greenwald1*, and Lauren C. Kennedy*, Adrian Hinkle, Oscar N. Whitney, Vinson B. Fan, Alexander Crits-Christoph, Sasha Harris-Lovett, Avi I. Flamholz, Basem Al-Shayeb, Lauren D. Liao, Matt Beyers, Daniel Brown, Alicia R. Chakrabarti, Jason Dow, Dan Frost, Mark Koekemoer, Chris Lynch, Payal Sarkar, Eileen White, Rose Kantor**, Kara L. Nelson**
 
 *Authors contributed equally to work
 **Corresponding authors
