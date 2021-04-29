@@ -10,8 +10,7 @@ Two executable Jupyter notebooks are included:
 1. biomarker_comparison_data_analysis.ipynb
 2. wastewater_and_clinical_data_analysis.ipynb
 
-Each notebook uses the same base files and outputs figures in the "Figures" folder. 
-To run the notebooks, data files and additional scripts are also included: 
+Each notebook runs using the same base files (below)  and outputs figures in the “Figures” folder: 
 1. casedata.csv (clinical COVID-19 data from locations in this study)
 2. master_curves.csv (master standard curves for RT-qPCR)
 3. physicochemical_data.csv (physicochemical data associated with wastewater samples)
